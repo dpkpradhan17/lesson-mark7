@@ -1,0 +1,13 @@
+#output{
+    border: 1px solid black;
+    width:80%;
+    height: 10vh;
+    padding: 1rem 1rem;
+    margin: 1rem;
+}
+#txt-input{
+    width:80%;
+    height:10vh;
+    padding: 1rem 1rem;
+    margin: 1rem;
+}
